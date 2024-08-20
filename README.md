@@ -1,9 +1,9 @@
 # meme_create_LLM (2024.7.14-2024.8.10)
 
-### Tech Stack: pytorch / Colab
+## Tech Stack: pytorch / Colab
 This project was developed using PyTorch and submitted for the 미래내일 일경험 프로젝트형 program.
 
-### Problems & Solutions
+## Problems & Solutions
 
 One of the main challenges in this project was collecting linguistic meme data, as there was little existing research or readily available datasets on the subject. Initially, we hypothesized that popular YouTube comments could help us identify current memes. However, the comments were often too specific to the content of the videos, making it difficult to extract widely recognized memes. Additionally, meme-related comments were not frequent enough to build a large dataset.
 
@@ -16,4 +16,9 @@ One question that arose during the final stages of the project was: “Is our ap
 
 One major concern we had was around the process of constructing our dataset. Mr. Jeon explained that it’s common practice to feed a model’s output back into the input during training, which helped us feel confident in our approach. This expert consultation reinforced our belief that our methods were aligned with real-world AI practices, particularly in dataset creation and model training.
 
-### Reflections & Future Goals
+## Reflections & Future Goals
+
+Through this project, I realized the importance of staying attuned to trends in modern marketing. Internet culture, such as memes, evolves rapidly, and effectively leveraging these trends plays a significant role in capturing and maintaining consumer interest. Additionally, I witnessed firsthand the potential of AI-driven technologies. By collecting and analyzing data in real time, we saw how AI can reflect trends efficiently and enhance advertising performance. This experience made me recognize how technology can boost marketing effectiveness, and it opened my mind to applying this approach to other fields in the future.
+
+Lastly, working collaboratively with my team reinforced the importance of communication and cooperation. By fulfilling our respective roles and sharing ideas, we were able to achieve better results together.
+
